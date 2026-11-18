@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: Https://roti-bogor-seo-pesat.willedquince2.chatgpt.site/sitemap.xml
